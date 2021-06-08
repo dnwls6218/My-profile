@@ -1,5 +1,5 @@
 html{
-    background-color:yellow;
+    background-color:indianred;
     font-size: 10px;
 }
 
@@ -64,9 +64,17 @@ iframe {
 }
 
 .big {
-    font-size: 25px;
+    font-size: 18px;
 }
 
 article {
     margin: 30px 5px;
+}
+
+h1 {
+    margin: 0 auto;
+}
+
+h2 {
+    text-align: center;
 }
